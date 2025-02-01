@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jayesh1512/Leeeetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Jayesh1512/Leeeetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jayesh1512/Leeeetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
