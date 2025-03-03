@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Backtracking
 |  |
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
