@@ -1,19 +1,23 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        String ans = "";
-        ArrayList<String> result = new ArrayList<String>();
-        generate(n,result,ans,0,0);
-        return result;
+        int open = n;
+        int closed = n;
+        ArrayList<String> a = new ArrayList<String>();
+        birthday(open,closed,"",a);
+        return a;
     }
-    public static void generate(int n, ArrayList<String> result , String ans , int open, int closed){
-        if(open == closed && open == n){
-            result.add(ans);
+
+    public void birthday(int open,int closed,String s , ArrayList<String>res){
+        if(open == closed && open == 0){
+            res.add(s);
+            return;
         }
-        if(open < n){
-            generate(n,result,ans+'(',open+1,closed);
+        if (open > 0) {
+            birthday(open-1, closed, s + "(", res);
         }
-        if(open > closed){
-            generate(n,result,ans+')',open,closed+1);
+
+        if (closed > open) {
+            birthday(open, closed - 1, s + ")",  res);
         }
     }
 }
