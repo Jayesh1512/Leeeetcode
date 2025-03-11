@@ -25,6 +25,7 @@ class Solution {
         }
 
         int digit = a[idx] - '0';
+
         if (prev > (Integer.MAX_VALUE - digit) / 10) {
             return neg ? Integer.MIN_VALUE : Integer.MAX_VALUE;
         }
