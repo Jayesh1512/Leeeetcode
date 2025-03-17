@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
+| [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Backtracking
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jayesh1512/Leeeetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayesh1512/Leeeetcode/tree/master/2649-count-total-number-of-colored-cells) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
