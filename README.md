@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/Jayesh1512/Leeeetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3430-count-days-without-meetings](https://github.com/Jayesh1512/Leeeetcode/tree/master/3430-count-days-without-meetings) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/Jayesh1512/Leeeetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Jayesh1512/Leeeetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2915-count-of-interesting-subarrays](https://github.com/Jayesh1512/Leeeetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Design
 |  |
 | ------- |
