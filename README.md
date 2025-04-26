@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0239-sliding-window-maximum) |
+| [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Jayesh1512/Leeeetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jayesh1512/Leeeetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Design
