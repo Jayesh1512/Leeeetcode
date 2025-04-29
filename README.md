@@ -151,5 +151,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jayesh1512/Leeeetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
