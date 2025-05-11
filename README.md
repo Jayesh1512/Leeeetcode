@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
 | [0924-fair-candy-swap](https://github.com/Jayesh1512/Leeeetcode/tree/master/0924-fair-candy-swap) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Jayesh1512/Leeeetcode/tree/master/1293-three-consecutive-odds) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jayesh1512/Leeeetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayesh1512/Leeeetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Binary Search
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
