@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/Jayesh1512/Leeeetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jayesh1512/Leeeetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jayesh1512/Leeeetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jayesh1512/Leeeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayesh1512/Leeeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jayesh1512/Leeeetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/Jayesh1512/Leeeetcode/tree/master/0924-fair-candy-swap) |
 ## Sliding Window
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0924-fair-candy-swap](https://github.com/Jayesh1512/Leeeetcode/tree/master/0924-fair-candy-swap) |
