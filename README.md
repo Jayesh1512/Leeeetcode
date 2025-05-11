@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
 ## String
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jayesh1512/Leeeetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jayesh1512/Leeeetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayesh1512/Leeeetcode/tree/master/2649-count-total-number-of-colored-cells) |
