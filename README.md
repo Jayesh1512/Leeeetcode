@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,9 +244,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
