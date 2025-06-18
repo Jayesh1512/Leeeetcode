@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Jayesh1512/Leeeetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Jayesh1512/Leeeetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bucket Sort
 |  |
