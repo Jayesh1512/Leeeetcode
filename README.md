@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Jayesh1512/Leeeetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Jayesh1512/Leeeetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Math
 |  |
