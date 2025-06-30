@@ -5,13 +5,11 @@ class Solution(object):
         :rtype: int
         """
         freq = {}
-        for i in nums:
-            freq[i] = freq.get(i,0) + 1
-        print(freq)
-        keys = freq.keys()
-        keys = sorted(keys)
+        for num in nums:
+            freq[num] = freq.get(num, 0) + 1
+
         cmax = 0
-        for i in range(len(keys)-1):
-            if (keys[i] == keys[i+1] + 1) or (keys[i] == keys[i+1] -1):
-                cmax = max(cmax , freq[keys[i]]+freq[keys[i+1]])
+        for key in freq:
+            if key + 1 in freq:
+                cmax = max(cmax, freq[key] + freq[key + 1])
         return cmax
