@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Jayesh1512/Leeeetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
