@@ -36,3 +36,6 @@ class Solution(object):
                 g_new[j] = (g_new[j - 1] + f_new[j]) % mod
             f, g = f_new, g_new
         return (ans - g[k - 1]) % mod
+
+
+        #### Editorial
