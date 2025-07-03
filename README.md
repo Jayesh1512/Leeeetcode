@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jayesh1512/Leeeetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayesh1512/Leeeetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jayesh1512/Leeeetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
