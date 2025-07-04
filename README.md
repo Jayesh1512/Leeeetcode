@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jayesh1512/Leeeetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayesh1512/Leeeetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Jayesh1512/Leeeetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
