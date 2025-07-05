@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0039-combination-sum) |
 | [0059-spiral-matrix-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jayesh1512/Leeeetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Jayesh1512/Leeeetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 ## Tree
 |  |
