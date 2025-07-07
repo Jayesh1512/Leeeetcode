@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Jayesh1512/Leeeetcode/tree/master/1293-three-consecutive-odds) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jayesh1512/Leeeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jayesh1512/Leeeetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/Jayesh1512/Leeeetcode/tree/master/0924-fair-candy-swap) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jayesh1512/Leeeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3430-count-days-without-meetings](https://github.com/Jayesh1512/Leeeetcode/tree/master/3430-count-days-without-meetings) |
 ## Stack
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jayesh1512/Leeeetcode/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh1512/Leeeetcode/tree/master/0797-rabbits-in-forest) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jayesh1512/Leeeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Jayesh1512/Leeeetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 ## Prefix Sum
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jayesh1512/Leeeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Monotonic Queue
 |  |
 | ------- |
