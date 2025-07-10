@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Jayesh1512/Leeeetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
+| [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
+| [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
+| [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jayesh1512/Leeeetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
