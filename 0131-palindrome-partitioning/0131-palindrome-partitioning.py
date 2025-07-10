@@ -1,23 +1,23 @@
 class Solution(object):
     def partition(self, s):
-        self.result=[]
-        def helper(i,arr):
+        """
+        :type s: str
+        :rtype: List[List[str]]
+        """
+        def is_palindrome(sub):
+            return sub == sub[::-1]
 
-            if i==len(s):
-
-                self.result.append(list(arr))
+        def backtrack(start, path, ans):
+            if start == len(s):
+                ans.append(path[:])
                 return
+            for end in range(start + 1, len(s) + 1):
+                substr = s[start:end]
+                if is_palindrome(substr):
+                    path.append(substr)
+                    backtrack(end, path, ans)
+                    path.pop()
 
-            
-            for j in range(i+1,len(s)+1):
-
-                if s[i:j]==s[i:j][::-1] and len(s[i:j])>=1:
-
-                    arr.append(s[i:j])
-                    helper(j,arr)
-                    arr.pop()
-
-        helper(0,[])
-        return self.result
-
-        
+        ans = []
+        backtrack(0, [], ans)
+        return ans
