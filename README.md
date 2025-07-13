@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Jayesh1512/Leeeetcode/tree/master/0924-fair-candy-swap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1022-unique-paths-iii](https://github.com/Jayesh1512/Leeeetcode/tree/master/1022-unique-paths-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Jayesh1512/Leeeetcode/tree/master/1293-three-consecutive-odds) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jayesh1512/Leeeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/Jayesh1512/Leeeetcode/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Jayesh1512/Leeeetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1022-unique-paths-iii](https://github.com/Jayesh1512/Leeeetcode/tree/master/1022-unique-paths-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [1022-unique-paths-iii](https://github.com/Jayesh1512/Leeeetcode/tree/master/1022-unique-paths-iii) |
 ## Tree
 |  |
 | ------- |
