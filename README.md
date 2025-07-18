@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jayesh1512/Leeeetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Jayesh1512/Leeeetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jayesh1512/Leeeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
