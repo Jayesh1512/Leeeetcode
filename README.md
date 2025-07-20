@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jayesh1512/Leeeetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Jayesh1512/Leeeetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jayesh1512/Leeeetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Jayesh1512/Leeeetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Jayesh1512/Leeeetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Jayesh1512/Leeeetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Jayesh1512/Leeeetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Jayesh1512/Leeeetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jayesh1512/Leeeetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
