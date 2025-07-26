@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1022-unique-paths-iii](https://github.com/Jayesh1512/Leeeetcode/tree/master/1022-unique-paths-iii) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
