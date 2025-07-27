@@ -54,7 +54,4 @@ class Solution(object):
             for j in range(cols):
                 if grid[i][j] == 1:
                     on += 1
-
-        print(grid)
-
         return on
