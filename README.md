@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Jayesh1512/Leeeetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Jayesh1512/Leeeetcode/tree/master/0290-word-pattern) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jayesh1512/Leeeetcode/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/Jayesh1512/Leeeetcode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jayesh1512/Leeeetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Jayesh1512/Leeeetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Jayesh1512/Leeeetcode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
