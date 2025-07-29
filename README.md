@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Jayesh1512/Leeeetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Jayesh1512/Leeeetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Jayesh1512/Leeeetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
@@ -438,8 +440,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
