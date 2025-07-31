@@ -4,20 +4,26 @@ class Solution(object):
         :type grid: List[List[int]]
         :rtype: int
         """
-        def rec(i, j, grid, dp):
-            if i < 0 or j < 0:
+        m = len(grid)
+        n = len(grid[0])
+        def rec(i,j):
+            if i == 0 and  j == 0:
+                return grid[i][j]
+            if i<0 or j<0:
                 return float('inf')
-            if i == 0 and j == 0:
-                return grid[0][0]
+            
             if dp[i][j] != -1:
                 return dp[i][j]
-            
-            up = rec(i-1, j, grid, dp)
-            left = rec(i, j-1, grid, dp)
-            dp[i][j] = grid[i][j] + min(up, left)
+
+            up = rec(i-1,j)
+            left = rec(i,j-1)
+
+            dp[i][j] = (min(up,left)+grid[i][j])
+
             return dp[i][j]
 
-        row = len(grid)
-        col = len(grid[0])
-        dp = [[-1 for i in range(col)] for j in range(row)]
-        return rec(row-1, col-1, grid, dp)
+
+
+        dp = [[-1 for i in range(n)]for i in range(m)]
+        ans = rec(m-1,n-1)
+        return ans
