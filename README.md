@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jayesh1512/Leeeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Monotonic Queue
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Jayesh1512/Leeeetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Jayesh1512/Leeeetcode/tree/master/0733-flood-fill) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Jayesh1512/Leeeetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Jayesh1512/Leeeetcode/tree/master/1073-number-of-enclaves) |
@@ -440,10 +444,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
