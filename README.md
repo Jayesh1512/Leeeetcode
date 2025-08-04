@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jayesh1512/Leeeetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Jayesh1512/Leeeetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Jayesh1512/Leeeetcode/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0219-contains-duplicate-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Jayesh1512/Leeeetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
