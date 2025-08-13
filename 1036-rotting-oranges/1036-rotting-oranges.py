@@ -1,43 +1,37 @@
+from collections import deque
+
 class Solution(object):
     def orangesRotting(self, grid):
         """
         :type grid: List[List[int]]
         :rtype: int
         """
-        rotten = []
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
+        r = len(grid)
+        c = len(grid[0])
+        d = [(0, -1), (-1, 0), (1, 0), (0, 1)]
+        q = deque()
+        fresh = 0
+
+        # Step 1: Collect all rotten oranges and count fresh ones
+        for i in range(r):
+            for j in range(c):
                 if grid[i][j] == 2:
-                    rotten.append((i, j))
+                    q.append((i, j, 0))  # (row, col, time)
+                elif grid[i][j] == 1:
+                    fresh += 1
 
-        q = []
-        for i in rotten:
-            q.append((i[0], i[1], 0))  
+        time_elapsed = 0
 
-        time = 0 
+        while q:
+            i, j, time = q.popleft()
+            time_elapsed = max(time_elapsed, time)
 
-         # BFS
+            for dx, dy in d:
+                ni, nj = i + dx, j + dy
+                if 0 <= ni < r and 0 <= nj < c and grid[ni][nj] == 1:
+                    grid[ni][nj] = 2   # now rotten
+                    fresh -= 1
+                    q.append((ni, nj, time + 1))
 
-        while len(q) != 0:
-            x, y, t = q.pop(0)
-            time = max(time, t)
-
-            if x - 1 >= 0 and grid[x - 1][y] == 1:
-                grid[x - 1][y] = 2
-                q.append((x - 1, y, t + 1))
-            if x + 1 < len(grid) and grid[x + 1][y] == 1:
-                grid[x + 1][y] = 2
-                q.append((x + 1, y, t + 1))
-            if y - 1 >= 0 and grid[x][y - 1] == 1:
-                grid[x][y - 1] = 2
-                q.append((x, y - 1, t + 1))
-            if y + 1 < len(grid[0]) and grid[x][y + 1] == 1:
-                grid[x][y + 1] = 2
-                q.append((x, y + 1, t + 1))
-
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == 1:
-                    return -1
-
-        return time
+        # Step 3: Check if all fresh oranges are rotted
+        return time_elapsed if fresh == 0 else -1
