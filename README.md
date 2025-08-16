@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jayesh1512/Leeeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Jayesh1512/Leeeetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Jayesh1512/Leeeetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jayesh1512/Leeeetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jayesh1512/Leeeetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Jayesh1512/Leeeetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jayesh1512/Leeeetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Jayesh1512/Leeeetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jayesh1512/Leeeetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
