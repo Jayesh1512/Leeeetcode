@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jayesh1512/Leeeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jayesh1512/Leeeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Jayesh1512/Leeeetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Jayesh1512/Leeeetcode/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/Jayesh1512/Leeeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/Jayesh1512/Leeeetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jayesh1512/Leeeetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Jayesh1512/Leeeetcode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Jayesh1512/Leeeetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -447,12 +451,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Jayesh1512/Leeeetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jayesh1512/Leeeetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Jayesh1512/Leeeetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Jayesh1512/Leeeetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Jayesh1512/Leeeetcode/tree/master/0820-find-eventual-safe-states) |
@@ -464,5 +470,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Jayesh1512/Leeeetcode/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jayesh1512/Leeeetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
