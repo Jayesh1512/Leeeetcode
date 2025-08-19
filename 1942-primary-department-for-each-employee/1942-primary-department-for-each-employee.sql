@@ -1,21 +1,9 @@
-# Write your MySQL query statement below
-(select 
-    employee_id , 
-    department_id
-from
-    Employee
-group by 
-    employee_id
-having 
-    count(employee_id) = 1
-)
-UNION
-(
-select 
-    employee_id , 
-    department_id
-from 
-    Employee
-where
-    primary_flag = 'Y'
-)
+SELECT 
+    employee_id,
+    CASE 
+        WHEN COUNT(*) = 1 
+            THEN MAX(department_id)
+        ELSE MAX(CASE WHEN primary_flag = 'Y' THEN department_id END)
+    END AS department_id
+FROM employee
+GROUP BY employee_id;
