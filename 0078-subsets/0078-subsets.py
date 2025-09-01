@@ -4,14 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        ans = []
-        def rec(i,nums,curr,ans):
-            if i == len(nums):
-                ans.append(list(curr))
+        n = len(nums)
+        def rec(i,c):
+            if i < 0:
+                ans.append(list(c))
                 return
-            curr.append(nums[i])
-            rec(i+1,nums,curr,ans)
-            curr.pop()
-            rec(i+1,nums,curr,ans)
-        rec(0,nums,[],ans)
+            rec(i-1,c+[nums[i]])
+            rec(i-1,c)
+        ans = list()
+        rec(n-1,[])
         return ans
+
+        
