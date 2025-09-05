@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Jayesh1512/Leeeetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Jayesh1512/Leeeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Jayesh1512/Leeeetcode/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Jayesh1512/Leeeetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0219-contains-duplicate-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Jayesh1512/Leeeetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Jayesh1512/Leeeetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jayesh1512/Leeeetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Jayesh1512/Leeeetcode/tree/master/0526-beautiful-arrangement) |
