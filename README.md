@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jayesh1512/Leeeetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jayesh1512/Leeeetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Jayesh1512/Leeeetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jayesh1512/Leeeetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jayesh1512/Leeeetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Jayesh1512/Leeeetcode/tree/master/2478-longest-nice-subarray) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jayesh1512/Leeeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-sort-array-by-parity-ii](https://github.com/Jayesh1512/Leeeetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Jayesh1512/Leeeetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jayesh1512/Leeeetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jayesh1512/Leeeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jayesh1512/Leeeetcode/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jayesh1512/Leeeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh1512/Leeeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Jayesh1512/Leeeetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jayesh1512/Leeeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
