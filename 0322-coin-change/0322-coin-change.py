@@ -6,10 +6,11 @@ class Solution(object):
         :rtype: int
         """
         sorted(coins)
-
         def rec(i,t):
             if t == 0:
                 return 0
+            if t == coins[i]:
+                return 1
             if i < 0:
                 if t != 0:
                     return 1000000
@@ -26,6 +27,11 @@ class Solution(object):
             return dp[i][t]
         dp = [[-1 for i in range(amount+1)]for i in range(len(coins)+1)]
         ans = rec(len(coins)-1,amount)
+
+
+
+
+
         if ans > 100000:
             return -1
         return ans 
