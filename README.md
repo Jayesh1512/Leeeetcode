@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/Jayesh1512/Leeeetcode/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/Jayesh1512/Leeeetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Jayesh1512/Leeeetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Jayesh1512/Leeeetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jayesh1512/Leeeetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
